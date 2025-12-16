@@ -7,7 +7,7 @@ A responsive and interactive text analysis tool built with **React** and **TypeS
 ## 📸 Preview
 
 ![Preview of the Real-Time Text Analyzer](./screenshot.jpg)
-LIVE: http://dzik0.github.io/character-counter
+LIVE: http://p-glazowski.github.io/character-counter
 
 ---
 
@@ -67,7 +67,7 @@ src/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/text-analyzer.git
+   git clone https://github.com/p-glazowski/text-analyzer.git
    ```
 
 2. **Navigate to the project**
@@ -101,7 +101,6 @@ src/
 
 **Piotr Głazowski**
 _React & TypeScript Developer_
-[Portfolio](#) • [GitHub](https://github.com/your-username)
 
 ---
 
